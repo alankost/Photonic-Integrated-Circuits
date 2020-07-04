@@ -1,3 +1,5 @@
 Numpy
 Bokeh
 Scipy
+voila
+voila-material
