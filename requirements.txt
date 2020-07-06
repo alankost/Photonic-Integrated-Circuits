@@ -1,8 +1,6 @@
 Numpy
 Bokeh
 Scipy
-matplotlib
-bqplot
 ipywidgets
 voila
 voila-material
