@@ -4,3 +4,5 @@ Scipy
 ipywidgets
 voila
 voila-material
+matplotlib
+ipympl
