@@ -1,8 +1,0 @@
-Numpy
-Bokeh
-Scipy
-ipywidgets
-voila
-voila-material
-matplotlib
-ipympl
