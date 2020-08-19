@@ -2,4 +2,3 @@ numpy
 bokeh
 ipywidgets
 scipy
-yaml
